@@ -12,15 +12,4 @@
       "dest": "hp_system/hp_system_extension.js"
     }
   ]
-  // "settings_files": [
-  //   {
-  //     "path": "settings.js",
-  //     "dest": "hp_system/settings.js"
-  //   },
-  //   {
-  //     "path": "settings.html",
-  //     "dest": "hp_system/settings.html"
-  //   }
-  // ]
-  // Дополнительные поля, если нужны. Закомментированные части пока не нужны.
 }
