@@ -1,0 +1,26 @@
+{
+  "name": "HP System for Main Character",
+  "id": "hp_system",
+  "version": "1.0.0",
+  "description": "Adds a health point (HP) system for the main character using function calling, allowing the AI to automatically track and update HP during roleplay scenarios. Includes functions for taking damage and resetting HP.",
+  "tags": ["roleplay", "gameplay", "hp", "health", "function-calling", "attributes"],
+  "authors": ["radioDevil"],
+  "repo": "https://github.com/radioDevil/attribute_system.git",
+  "extension_files": [
+    {
+      "path": "hp_system_extension.js",
+      "dest": "hp_system/hp_system_extension.js"
+    }
+  ]
+  // "settings_files": [
+  //   {
+  //     "path": "settings.js",
+  //     "dest": "hp_system/settings.js"
+  //   },
+  //   {
+  //     "path": "settings.html",
+  //     "dest": "hp_system/settings.html"
+  //   }
+  // ]
+  // Дополнительные поля, если нужны. Закомментированные части пока не нужны.
+}
